@@ -1,0 +1,12 @@
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\bin\Debug\CablePrintTool_J-TT.exe.config
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\bin\Debug\CablePrintTool_J-TT.exe
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\bin\Debug\CablePrintTool_J-TT.pdb
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J-TT.csproj.AssemblyReference.cache
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J-TT.csproj.SuggestedBindingRedirects.cache
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J_TT.Properties.Resources.resources
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J-TT.csproj.GenerateResource.cache
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J-TT.csproj.CoreCompileInputs.cache
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J-TT.exe
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J-TT.pdb
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J_TT.frmMenu.resources
+C:\Users\AN276\Desktop\CablePrintTool_J-TT\CablePrintTool_J-TT\obj\Debug\CablePrintTool_J_TT.Form2.resources
